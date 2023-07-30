@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "fflib",
+            "default": true,
+            "package": "fflib",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "versionDescription": "Bundle containing Apex Mocks and Apex common"
+        }
+    ],
+    "name": "fflib",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "58.0",
+    "packageAliases": {
+        "fflib": "0Ho08000000GmepCAC"
+    }
+}
